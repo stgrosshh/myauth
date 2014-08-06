@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myauth</string>
+    <string name="auth_name">Test Authenticator</string>
+    <string name="uc_lbl_username">Username</string>
+    <string name="uc_lbl_password">Password</string>
+    <string name="uc_cmd_cancel">Cancel</string>
+    <string name="uc_cmd_ok">Ok</string>
+    <string name="TestLabel">Test Test</string>
+</resources>

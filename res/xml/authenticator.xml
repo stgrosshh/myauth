@@ -1,0 +1,8 @@
+<account-authenticator android:accountType="org.bcbhh.TestAccount"
+                       android:icon="@drawable/ic_launcher"
+                       android:label="@string/auth_name"
+                       android:smallIcon="@drawable/ic_launcher"
+                       android:accountPreferences="@xml/prefs"
+
+                       xmlns:android="http://schemas.android.com/apk/res/android">
+</account-authenticator>
